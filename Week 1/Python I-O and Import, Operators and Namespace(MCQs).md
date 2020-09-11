@@ -12,7 +12,7 @@
 - C. Built-in namespace
 - D. Local namespace
 
-*Answer :-*
+*Answer :-B
 
 *2. Which of the following is false about “from-import” form of import?*
 - A. The syntax is: from module  name import identifier
@@ -20,7 +20,7 @@
 - C. The namespace of imported module becomes part of importing module
 - D. The identifiers in module are accessed directly as: identifier
 
-*Answer :-*
+*Answer :-D
 
 *3. Which is the correct operator for power(xy)?*
 - A. X^y
@@ -28,7 +28,7 @@
 - C. X^^y
 - D. None of the mentioned
 
-*Answer :-*
+*Answer :-B
 
 *4. What is the order of precedence in python?
    i) Parentheses
@@ -42,7 +42,7 @@
 - C. ii,i,iv,iii,v,vi
 - D. i,ii,iii,iv,vi,v
 
-*Answer :-*
+*Answer :-A
 
 *5. What is the output of the following print() function?
 print('%d %d %.2f' % (11, '22', 11.22))*
@@ -50,6 +50,6 @@ print('%d %d %.2f' % (11, '22', 11.22))*
 - B. TypeError
 - C. 11 ‘22’ 11.22
 
-*Answer :-*
+*Answer :B
 
 
