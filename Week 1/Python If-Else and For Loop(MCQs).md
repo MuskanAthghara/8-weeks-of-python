@@ -23,7 +23,7 @@ Q1.What will the following code print out?
 - d)Small
     All done
 
-
+Answer-a
 
 Q2.What will the following code will print out?
 
@@ -34,6 +34,7 @@ Q2.What will the following code will print out?
 - b) -2   1   4
 - c) -2  -1   0
 - d) -2   1   5
+Answer-b
 
 Q3.What is the value of x after the following nested for loop completes its execution? 
 
@@ -47,6 +48,7 @@ Q3.What is the value of x after the following nested for loop completes its exec
 - b) 90
 - c) 99
 - d) 9
+Answer-b
 
 Q4. Which of the following is a valid for loop in Python?
 
@@ -54,6 +56,7 @@ Q4. Which of the following is a valid for loop in Python?
 - b) for i in range(0,5):
 - c) for i in range(0,5)
 - d) for i in range(5)
+Answer-d
 
 Q5.When does the else statement written after loop executes?
 
@@ -61,4 +64,4 @@ Q5.When does the else statement written after loop executes?
 - b) When loop condition becomes false
 - c) Else statement is always executed
 - d) None of the above  
-
+Answer-b
